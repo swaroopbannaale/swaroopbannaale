@@ -41,12 +41,6 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast**. I speci
 
 ---
 
-
----
-
-
----
-
 ## 💼 Key Competencies
 
 <table>
