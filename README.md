@@ -8,7 +8,7 @@
 
 ## 🚀 Data Science & Analytics Professional
 
-I'm a passionate **Data Scientist** and **Machine Learning enthusiast** from **Bengaluru, India** 🇮🇳. I specialize in building data-driven solutions and extracting actionable insights from complex datasets. With expertise in machine learning, data analysis, and business intelligence, I transform raw data into meaningful intelligence.
+I'm a passionate **Data Scientist** and **Machine Learning enthusiast**. I specialize in building data-driven solutions and extracting actionable insights from complex datasets. With expertise in machine learning, data analysis, and business intelligence, I transform raw data into meaningful intelligence.
 
 ---
 ## 💼 Connect With Me
