@@ -44,22 +44,6 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast**. I speci
 
 ---
 
-## 🎯 Machine Learning Algorithms
-
-<details>
-<summary><b>Click to expand ML expertise</b></summary>
-
-- ✅ **K-Nearest Neighbors (KNN)** - Classification & Regression
-- ✅ **Linear Regression** - Predictive modeling
-- ✅ **Logistic Regression** - Binary & multi-class classification
-- ✅ **Random Forest** - Ensemble learning
-- ✅ **XGBoost** - Advanced gradient boosting
-- ✅ **Decision Trees** - Classification & Regression trees
-- ✅ **Support Vector Machines (SVM)** - Classification
-- ✅ **Naive Bayes** - Probabilistic classification
-- ✅ **K-Means Clustering** - Unsupervised learning
-
-</details>
 
 ---
 
