@@ -11,16 +11,6 @@
 I'm a passionate **Data Scientist** and **Machine Learning enthusiast**. I specialize in building data-driven solutions and extracting actionable insights from complex datasets. With expertise in machine learning, data analysis, and business intelligence, I transform raw data into meaningful intelligence.
 
 ---
-## 💼 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaroop-bannale-05147935b/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Swaroopbannale1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaroop.bannale26@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
-**📧 Email:** swaroop.bannale26@gmail.com
 
 </div>
 
@@ -133,6 +123,18 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast**. I speci
 
 </div>
 ## 
+## 💼 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaroop-bannale-05147935b/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Swaroopbannale1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaroop.bannale26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+**📧 Email:** swaroop.bannale26@gmail.com
+
+</div>
 
 **📧 Email:** swaroop.bannale26@gmail.com
 
