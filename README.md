@@ -1,4 +1,4 @@
-# Hi there, I'm swaroop bannale 👋
+# Hi there, I'm Swaroop Bannale 👋
 
 <div align="center">
   
@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 Data Science & Analytics Professional
+##  Data Science & Analytics Professional
 
 I'm a passionate **Data Scientist** and **Machine Learning enthusiast**. I specialize in building data-driven solutions and extracting actionable insights from complex datasets. With expertise in machine learning, data analysis, and business intelligence, I transform raw data into meaningful intelligence.
 
