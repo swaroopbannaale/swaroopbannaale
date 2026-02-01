@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [swaroop bannale] 👋
 
 <div align="center">
   
@@ -21,12 +21,9 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast** from **B
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 💾 Databases & Data Engineering
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📊 Business Intelligence & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -36,50 +33,12 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast** from **B
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 💻 Development Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
 </div>
 
 ---
 
-## 📊 Core Libraries & Frameworks
-
-<div align="center">
-
-### 🔬 Data Science Stack
-
-| Library | Purpose | Proficiency |
-|---------|---------|-------------|
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Data manipulation and analysis | ⭐⭐⭐⭐⭐ |
-| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | Numerical computing | ⭐⭐⭐⭐⭐ |
-| ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | Machine learning algorithms | ⭐⭐⭐⭐⭐ |
-| ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) | Static data visualization | ⭐⭐⭐⭐ |
-| ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) | Statistical data visualization | ⭐⭐⭐⭐ |
-| ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) | Interactive visualizations | ⭐⭐⭐⭐ |
-| ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) | Scientific computing | ⭐⭐⭐⭐ |
-
-### 🗄️ Database & ETL
-
-| Library | Purpose | Proficiency |
-|---------|---------|-------------|
-| ![PyMySQL](https://img.shields.io/badge/PyMySQL-4479A1?style=flat-square) | MySQL database connectivity | ⭐⭐⭐⭐ |
-| ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square) | SQL toolkit and ORM | ⭐⭐⭐⭐ |
-| Pandas-MySQL | Data transfer between Pandas and MySQL | ⭐⭐⭐⭐ |
-
-### 🤖 ML & AI
-
-| Library | Purpose | Proficiency |
-|---------|---------|-------------|
-| ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square) | Gradient boosting algorithms | ⭐⭐⭐⭐⭐ |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | Deep learning framework | ⭐⭐⭐ |
-| ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | Neural networks API | ⭐⭐⭐ |
-| ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square) | Gradient boosting framework | ⭐⭐⭐⭐ |
-
-</div>
 
 ---
 
