@@ -124,7 +124,4 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast** from **B
 *🚀 More projects coming soon...*
 
 ---
-    "Cloud": ["AWS", "Azure", "Google Cloud"],
-    "Big Data": ["Spark", "Hadoop", "Kafka"],
-    "MLOps": ["Docker", "Kubernetes", "CI/CD"]
-}
+ 
