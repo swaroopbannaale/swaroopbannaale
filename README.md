@@ -1,4 +1,4 @@
-# Hi there, I'm [swaroop bannale] 👋
+# Hi there, I'm swaroop bannale 👋
 
 <div align="center">
   
@@ -124,12 +124,6 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast** from **B
 *🚀 More projects coming soon...*
 
 ---
-
-## 🌱 Currently Learning
-
-```python
-learning_path = {
-    "Advanced ML": ["Deep Learning", "Neural Networks", "NLP"],
     "Cloud": ["AWS", "Azure", "Google Cloud"],
     "Big Data": ["Spark", "Hadoop", "Kafka"],
     "MLOps": ["Docker", "Kubernetes", "CI/CD"]
